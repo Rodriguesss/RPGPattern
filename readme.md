@@ -34,6 +34,6 @@ Você consegue subir de nivel com a benção de um Deus ou não, depende de como
 Decorate irá decidir se você subirá de nivel recebendo uma benção de um Deus ou não.
 
 
-<h2>Autores<h2>
-<li><br>Vinícius Langholz</br></li>
-<li><br>Vinícius Rodrigues</br></li>
+<h3>Autores</h3>
+<li>[Vinícius Langholz](https://github.com/viniciuslangholz)</li>
+<li>[Vinícius Rodrigues](https://github.com/Rodriguesss)</li>
