@@ -35,5 +35,5 @@ Decorate irá decidir se você subirá de nivel recebendo uma benção de um Deu
 
 
 <h3>Autores</h3>
-<li>[Vinícius Langholz](https://github.com/viniciuslangholz)</li>
-<li>[Vinícius Rodrigues](https://github.com/Rodriguesss)</li>
+<li>Vinícius Langholz - (https://github.com/viniciuslangholz)</li>
+<li>Vinícius Rodrigues - (https://github.com/Rodriguesss)</li>
